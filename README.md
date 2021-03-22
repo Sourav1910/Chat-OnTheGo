@@ -1,5 +1,7 @@
 # Chat-OnTheGo
-**A WebApp for Chatting on the go made using socket.io library in Node.Js wherein users can chat in real-time by creating rooms as well as share their real time locations with one another.**
+**A WebApp for Chatting on the go made using socket.io library in Node.Js wherein users can chat in real-time by creating rooms as well as share their real time locations with one another.** 
+
+([Visit Site](https://node-chat-app-sourav.herokuapp.com/))
 
 ![im](/images/img1.PNG)
 ![im](/images/img2.PNG)
